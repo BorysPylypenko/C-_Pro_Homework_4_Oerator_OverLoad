@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#_Pro_Homework_4_Oerator_OverLoad", "C#_Pro_Homework_4_Oerator_OverLoad\C#_Pro_Homework_4_Oerator_OverLoad.csproj", "{D3FA21A4-22B7-4A43-AA4E-2751097B8127}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3FA21A4-22B7-4A43-AA4E-2751097B8127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FA21A4-22B7-4A43-AA4E-2751097B8127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FA21A4-22B7-4A43-AA4E-2751097B8127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FA21A4-22B7-4A43-AA4E-2751097B8127}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {971D898C-B89A-4200-90FC-07B3F70EFD2D}
+	EndGlobalSection
+EndGlobal
